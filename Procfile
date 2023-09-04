@@ -1,1 +1,1 @@
-web: echo python main.py
+web: py -3 main.py
