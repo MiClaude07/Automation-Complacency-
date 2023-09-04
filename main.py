@@ -6,7 +6,7 @@ import re
 import os
 
 import const
-import src.app_commands as app_commands
+import app_commands
 
 intents = discord.Intents.default()
 intents.message_content = True
