@@ -19,16 +19,37 @@ __**Available Commands:**__
 
 
 DICT = {
-    "Term": "Definition"
+    "Term": "Definition",
+    "Peer To Peer Economy": "Sellers can sell directly to buyers",
+    "5 Ways Users Pay For Free": """
+        - Advertising 
+        - Donations
+        - Businesses provides some services as a marketing tool
+        - Generosity
+        - Many free sites collect information about our online activities and sell it to advertisers.
+    """,
+    "Turing Test": "An AI test in which if the computer convinces the human subject that the computer is human, the computer is said to `pass`"
 }
 
 
 DAY = {
     "1": 
-    """
-    Summary: Basic Summary of the Day and concepts
-    Slides: Link to the slides
-    Terms: Terms used today
+    f"""
+    Summary: In this class, we covered the Syllabus, Website, and some introductions.
+    
+    Some important notes: 
+        Midterm is 10/19
+        Final paper is due 12/15
+        Presentations will be done after Midterms. Group sign ups will be on **September 26th**. 
+        __**Citation Workshop and BOS are due by the end of the weekend at 11:59 Sunday**__
+
+    The Lecture covered Pace of Change, Moore's Law, the pros and cons of rapidly evolving technology, the growth of E-Commerce, and how "Free" Stuff are paid for.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-1.pdf
+    Terms: 
+        {DICT["Turing Test"]}
+        {DICT["5 Ways Users Pay For Free"]}
+        {DICT["Turing Test"]}
     """,
     "0": 
     """
@@ -60,7 +81,8 @@ RESOURCES = {
     "Calender": "https://blogs.umb.edu/amandapotasznik/general-info/class-calendar/",
     "Late": "https://blogs.umb.edu/amandapotasznik/general-info/late-to-class/",
     "Syllabus": "https://blogs.umb.edu/amandapotasznik/general-info/syllabus/",
-    "Rubric": "https://blogs.umb.edu/amandapotasznik/rubrics/"
+    "Rubric": "https://blogs.umb.edu/amandapotasznik/rubrics/",
+    "Wpe": "https://blogs.umb.edu/amandapotasznik/department-campus-fyi/wpe/"
 }
 
 RESOURCE_DEF = {
@@ -79,4 +101,5 @@ RESOURCE_DEF = {
     "**Late**": "Information on what to do when you are late to class",
     "**Syllabus**": "Syllabus",
     "**Rubric**": "Rubrics",
+    "**Wpe**": "Information on the WPE"
 }
