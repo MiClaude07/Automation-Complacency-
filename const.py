@@ -13,7 +13,7 @@ __**Available Commands:**__
 - **$dictionary**: provides definitions for all terms.
     Example call: $dicitionary
 
-- **$resource <resource>**: provides a link to helpful resources. List of resources can be obtained with `$resources all`
+- **$resource <resource>**: provides a link to helpful resources. List of resources can be obtained with `$resource all`
     Example call: $resource final
 """
 
