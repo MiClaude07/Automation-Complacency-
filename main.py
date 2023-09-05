@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 
 import re
 import os
+import logging
 
 import const
 import app_commands
@@ -12,6 +13,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
+
+handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
 
 load_dotenv(".env")
 
@@ -44,4 +47,4 @@ async def on_message(message):
         await message.channel.send(app_commands.get_resource(content))
     else:
         await message.channel.send("Invalid Command. Check `$help` for list of all commands.")
-client.run(os.getenv('DISCORD_TOKEN'))
+client.run(os.getenv('DISCORD_TOKEN'), log_handler=handler, log_level=logging.DEBUG)
