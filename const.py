@@ -22,7 +22,8 @@ DICT = {
     "Term": "Definition",
     "Peer To Peer Economy": "Sellers can sell directly to buyers",
     "5 Ways Users Pay For Free": 
-    """ - Advertising 
+    """ 
+    - Advertising 
     - Donations
     - Businesses provides some services as a marketing tool
     - Generosity
@@ -43,14 +44,15 @@ DAY = {
         Presentations will be done after Midterms. Group sign ups will be on **September 26th**. 
         __**Citation Workshop and BOS are due by the end of the weekend at 11:59 Sunday**__
 
-    The Lecture covered Pace of Change, Moore's Law, the pros and cons of rapidly evolving technology, the growth of E-Commerce, and how "Free" Stuff are paid for.
+    The Lecture covered Pace of Change, Moore's Law, the pros and cons of rapidly evolving technology, the growth of 
+    E-Commerce, and how "Free" Stuff are paid for.
 
     Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-1.pdf
 
     Terms: 
-        "Turing Test"
-        "5 Ways Users Pay For Free"
-        "Turing Test"
+        Turing Test
+        5 Ways Users Pay For Free
+        Turing Test
     """,
     "0": 
     """
