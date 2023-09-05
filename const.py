@@ -50,7 +50,7 @@ DAY = {
     Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-1.pdf
 
     Terms: 
-        Turing Test
+        Peer To Peer Economy
         5 Ways Users Pay For Free
         Turing Test
     """,
