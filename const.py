@@ -29,11 +29,42 @@ DICT = {
     - Generosity
     - Many free sites collect information about our online activities and sell it to advertisers.
     """,
-    "Turing Test": "An AI test in which if the computer convinces the human subject that the computer is human, the computer is said to `pass`"
+    "Turing Test": "An AI test in which if the computer convinces the human subject that the computer is human, the computer is said to `pass`",
+    "Negative Feedback Loops": "Damaging self-referential outputs in programs, usually in “black-box” algorithms ",
+    "Deontological":  "Step-by-Step [rule-based]", 
+    "Utilitarianism": "Outcome-based [Outcome must be greatest good for greatest number of people]", 
+    "Social Contract Theory": "People willingly submit to a common law in order to live in a civil society. → Obeying laws = ethical" ,
+    "Negative Rights": "(liberties) The right to act without interference ",
+    "Positive Rights": "(claim-rights): Any obligation of some people to provide certain things for others"
+
 }
 
 
 DAY = {
+    "2": 
+    """
+    Summary: 
+        Today we went over the concept of Lag Time which is the idea that technological developments occur faster 
+        than legislation's and education's ability to catch up. 
+
+        We also covered Black-Box algorithms and how negative feedback loops are made. 
+
+        Deontological and Utilitarian ethics were introduced and we went over a few examples in class.
+
+        We looked at Thomas Hobbe's Social Contract Theory and compared it to Roussaeu's theory.
+
+        Finally, we took a look at examples of positive and negative rights.
+
+    Slides: https://blogs.umb.edu/amandapotasznik/files/2022/11/Day-2.pdf
+
+    Terms:
+        Negative Feedback Loops
+        Deontological
+        Utilitarianism
+        Social Contract Theory
+        Negative Rights
+        Positive Rights
+    """,
     "1": 
     f"""
     Summary: On this day, we covered the Syllabus, Website, and some introductions.
