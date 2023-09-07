@@ -2,7 +2,7 @@ HELP = """
 Hello! This is a bot to assist you in CS285. Definitions of terms will be added the day of or at least by the next class. If you have any recommendations, DM @Michael.
 
 __**Available Commands:**__
-- **$def <term>**: provides definition for <term>. 
+- **$def <term>**: provides definition for <term>. Case is insensitive (i.e any form of Automation Complancency is valid if spelled correctly)
     Example call: $def Automation Complacency
 
 - **$day <number>**: provides information from this day including a summary, link to the slides, and words. 
