@@ -70,25 +70,6 @@ DAY = {
     Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2023/06/Day-3.pdf
 
     Terms: 
-
-    """,
-    "2": 
-    """
-    Summary: 
-        Today we went over the concept of Lag Time which is the idea that technological developments occur faster 
-        than legislation's and education's ability to catch up. 
-
-        We also covered Black-Box algorithms and how negative feedback loops are made. 
-
-        Deontological and Utilitarian ethics were introduced and we went over a few examples in class.
-
-        We looked at Thomas Hobbe's Social Contract Theory and compared it to Roussaeu's theory.
-
-        Finally, we took a look at examples of positive and negative rights.
-
-    Slides: https://blogs.umb.edu/amandapotasznik/files/2022/11/Day-2.pdf
-
-    Terms:
         Cognitive Dissonance
         Conflict of Interest
         Bystander Effect
@@ -111,6 +92,30 @@ DAY = {
         Red Herring
         Slippery Slope
         Straw Man
+    """,
+    "2": 
+    """
+    Summary: 
+        Today we went over the concept of Lag Time which is the idea that technological developments occur faster 
+        than legislation's and education's ability to catch up. 
+
+        We also covered Black-Box algorithms and how negative feedback loops are made. 
+
+        Deontological and Utilitarian ethics were introduced and we went over a few examples in class.
+
+        We looked at Thomas Hobbe's Social Contract Theory and compared it to Roussaeu's theory.
+
+        Finally, we took a look at examples of positive and negative rights.
+
+    Slides: https://blogs.umb.edu/amandapotasznik/files/2022/11/Day-2.pdf
+
+    Terms:
+       Negative Feedback Loops
+       Deontological
+       Utilitarianism
+       Social Contract Theory
+       Negative Rights
+       Positve Rights
     """,
     "1": 
     f"""
