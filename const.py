@@ -57,11 +57,60 @@ DICT = {
     "Post Hoc Ergo Propter Hoc": "Implying causal relationship when there is none. Equating causality with correlation",
     "Red Herring": "Focusing on a non-issue instead of the argument at hand",
     "Slippery Slope": "Negating arguments with unsubstantiated conjecture of consequences. Can be fallacious or valid",
-    "Straw Man": "Presenting an altered version of the opponent’s argument so that it seems absurd, then disproving the weak argument"
+    "Straw Man": "Presenting an altered version of the opponent’s argument so that it seems absurd, then disproving the weak argument",
+    "Key Aspects of Privacy": """
+    - Freedom from intrusion (being left alone)
+    - Control of information about oneself
+    - Freedom from surveillance (from being tracked, followed, watched)""",
+    "Re-Identification": "(Identifying individuals based on small pieces of information from multiple sources) has become much easier due to the quantity of information and power of data search and analysis tools.",
+    "Secondary Use": "The use of data beyond the primary reason for its collection",
+    "Invisible Information Gathering": "Collection of personal information about a user without the user’s knowledge",
+    "Data Mining": "Searching and analyzing masses of data to find patterns and develop new information or knowledge",
+    "Computer Profiling": "Analyzing data to see which people are likely to engage in a certain behavior",
+    "Informed Consent": """Permission granted in full knowledge of possible consequences
+    - Opt out: Person must request (usually by checking a box) that an organization not use information
+    - Opt in: The collector of the information may use information only ig person explicitly permits use (usually by checking a box)""",
+"Fair Information Principles": """
+    - Inform people when you collect information
+    - Collect only the data needed
+    - Offer a way for people to opt out
+    - Keep data only as long as needed
+    - Maintain accuracy of data
+    - Protect security of data
+    - Develop policies for responding to law enforcement requests for data""",
+    "The 4th Amendment": "Grants citizens general privacy from the government by requiring warrants for searches",
+    "The Privacy Act": "Limits disclosure of records held by agencies of the federal government to other agencies, organizations, and individuals",
+    "Olmstead V. United States": "(1928) Supreme Court allowed the use of wiretaps on telephone lines without a court order. Interpreted the Fourth Amendment to apply only to physical intrusion and only the search or seizure of material things, not conversations",
+    "Katz V. United States": "(1967) Supreme Court revised its position and ruled that the Fourth Amendment does apply to conversations. The Court said that the Fourth Amendment protects people, not places. To intrude in a place where a reasonable person has a reasonable expectation of privacy requires a court order",
+    "Kyllo V. United States": "(2001) Court stated that where “the government uses a device that is not in General Public Use, the surveillance is a search and warrant must be obtained",
+    "General Public Use" : "Devices that the general public has access too" 
+
 }
 
 
 DAY = {
+    "4": 
+    """
+    Summary: Covered key aspects of privacy. Privacy violation. HIPPA. Government and privacy.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-4.pdf 
+
+    Terms: 
+        Key Aspects of Privacy
+        Re-Indentification
+        Secondary Use
+        Invisible Information Gathering
+        Data Mining
+        Computer Profiling
+        Informed Consent
+        Fair Information Principles
+        The 4th Amendement
+        The Privacy Act
+        Olmstead V. United States
+        Katz V. United States
+        Kyllo V. United States
+        General Public Use
+    """,
     "3": 
     """
     Summary:
