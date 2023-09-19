@@ -70,7 +70,7 @@ DICT = {
     "Informed Consent": """Permission granted in full knowledge of possible consequences
     - Opt out: Person must request (usually by checking a box) that an organization not use information
     - Opt in: The collector of the information may use information only ig person explicitly permits use (usually by checking a box)""",
-"Fair Information Principles": """
+    "Fair Information Principles": """
     - Inform people when you collect information
     - Collect only the data needed
     - Offer a way for people to opt out
@@ -83,12 +83,46 @@ DICT = {
     "Olmstead V. United States": "(1928) Supreme Court allowed the use of wiretaps on telephone lines without a court order. Interpreted the Fourth Amendment to apply only to physical intrusion and only the search or seizure of material things, not conversations",
     "Katz V. United States": "(1967) Supreme Court revised its position and ruled that the Fourth Amendment does apply to conversations. The Court said that the Fourth Amendment protects people, not places. To intrude in a place where a reasonable person has a reasonable expectation of privacy requires a court order",
     "Kyllo V. United States": "(2001) Court stated that where “the government uses a device that is not in General Public Use, the surveillance is a search and warrant must be obtained",
-    "General Public Use" : "Devices that the general public has access too" 
+    "General Public Use" : "Devices that the general public has access too",
+    "Gdpr": "(General Data Protection Regulation) Harmonize data rules across EU and for EU customers. American companies with EU users also must abide. Fair info principles become regulations. Data protection officers must be appointed. Explicit consent required for data profiling",
+    "Omnibus Crime Control And Safe Streets Act": "(1968) prohibits Government agencies from wiretapping",
+    "Ecpa": "(Electronic Communications Act) (1986) extended the 1968 wiretapping laws to include electronic communications",
+    "Calea": "(Communications Assistance For Law Enforcement Act) (1994) Amended ECPA→ requires telecom equipment be designed to ensure that the government can intercept telephone calls (with a court order or other authorization). Has been upheld in several lawsuits",
+    "Nsa": """(National Security Agency) 
+	    - 1952: Formed to intercept and decode WW2 messages, only allowed to spy on foreign entities
+	    - Patriot Act (2001) → US now included in NSA surveillance. Main surveillance provisions expired: June 1, 2015
+	    - USA Freedom Act: Extends most of the Patriot Act Until 2018. Ended bulk data collection by the government , now it’s up to ISPs and telecom companies to collect data. Government agencies once again need warrants in order to request access to the records from the telecom companies. International calls and emails not included though can still be collected""",
+    "Fisa": "(Foreign Intelligence Surveillance Act) Established oversight court for the NSA",
+    "Section 702": "Explicitly allowed, but placed more limits on, government spying. Extends whistleblower protections. Incidental surveillance of US citizens is allowed in the scope of non-US investigations",
+    "Rule 41": "Set procedural guidelines for courts. The DOJ wants to update Rule 41 with extensive surveillance for law enforcement"
+
+
+
+
+
+
+
 
 }
 
 
 DAY = {
+    "0": 
+    """
+    Summary:  Weekly Write-Up → First one will take longer to grade, be more lenient, and have more comments. Next week is Project Group sign up!
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2023/03/Day-5.pdf
+
+    Terms:
+        GDPR
+        Omnibus Crime Control And Safe Streets Atct
+        ECPA
+        CALEA
+        NSA
+        FISA
+        Section 702
+        Rule 41
+    """,
     "4": 
     """
     Summary: Covered key aspects of privacy. Privacy violation. HIPPA. Government and privacy.
