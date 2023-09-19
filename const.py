@@ -107,7 +107,7 @@ DICT = {
 
 
 DAY = {
-    "0": 
+    "5": 
     """
     Summary:  Weekly Write-Up → First one will take longer to grade, be more lenient, and have more comments. Next week is Project Group sign up!
 
