@@ -94,7 +94,16 @@ DICT = {
 	    - USA Freedom Act: Extends most of the Patriot Act Until 2018. Ended bulk data collection by the government , now it’s up to ISPs and telecom companies to collect data. Government agencies once again need warrants in order to request access to the records from the telecom companies. International calls and emails not included though can still be collected""",
     "Fisa": "(Foreign Intelligence Surveillance Act) Established oversight court for the NSA",
     "Section 702": "Explicitly allowed, but placed more limits on, government spying. Extends whistleblower protections. Incidental surveillance of US citizens is allowed in the scope of non-US investigations",
-    "Rule 41": "Set procedural guidelines for courts. The DOJ wants to update Rule 41 with extensive surveillance for law enforcement"
+    "Rule 41": "Set procedural guidelines for courts. The DOJ wants to update Rule 41 with extensive surveillance for law enforcement",
+    "The 1st Amendment":"(Freedom of Speech) Citizens may say almost anything they choose to without being punished by the government. Restriction on the power of government, not individuals or private businesses, to react to inflammatory speech",
+    "Fcc": "(Federal Communications Commission) Federal commission that regulates interstate and international communications by radio, television, wire, satellite and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the commission is the United States’ primary authority for communications law, regulation and technological innovation",
+    "Telecommunications Act": """(1996) 
+        - Part 1: ISPS are to be classified as either Information Services or Common Carriers
+        - Part 2: Establishes legal immunity for people and companies who host online content, regardless of what their users post""",
+    "Chilling Effect": "Discouragement and/or suppression of legal behavior (including speech)",
+    "Cda": "(Communications Decency Act of 1996): First major internet censorship law. Made it a crime to make available to anyone under 18 any obscene or indecent communication. Found to be unconstitutional",
+    "Cipa": "(Children’s Internet Protection Act of 2000) Requires schools and libraries that participate in certain federal programs to install filtering software. Upheld in court"
+
 
 
 
@@ -107,6 +116,21 @@ DICT = {
 
 
 DAY = {
+    "6": 
+    """
+    Summary: Basic Summary of the Day and concepts
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2023/05/Day-6.pdf 
+
+    Terms: 
+        The 1st Amendment
+        FCC
+        Telecommincations Act
+        Chilling Effect
+        CDA
+        CIPA
+        CAN-SPAM Act
+    """,
     "5": 
     """
     Summary:  Weekly Write-Up → First one will take longer to grade, be more lenient, and have more comments. Next week is Project Group sign up!
