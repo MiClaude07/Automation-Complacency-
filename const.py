@@ -118,7 +118,7 @@ DICT = {
 DAY = {
     "6": 
     """
-    Summary: Basic Summary of the Day and concepts
+    Summary: We covered the first amendment and different caveats. Then, we looked at the FCC and how they manage communications. Next, we looked at the Telecommunications Act of 1996 and how ISPs are structured. The ISPs structure is connected to the politics of Net Neutrality. Exceptions to section 230. Then, we looked at Federal Child Protection, Pornography, and Censorship. We also looked at laws surrounding Non-consensual pornography. We also looked at Free Speech in relation to Spam.
 
     Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2023/05/Day-6.pdf 
 
