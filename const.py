@@ -102,7 +102,12 @@ DICT = {
         - Part 2: Establishes legal immunity for people and companies who host online content, regardless of what their users post""",
     "Chilling Effect": "Discouragement and/or suppression of legal behavior (including speech)",
     "Cda": "(Communications Decency Act of 1996): First major internet censorship law. Made it a crime to make available to anyone under 18 any obscene or indecent communication. Found to be unconstitutional",
-    "Cipa": "(Children’s Internet Protection Act of 2000) Requires schools and libraries that participate in certain federal programs to install filtering software. Upheld in court"
+    "Cipa": "(Children’s Internet Protection Act of 2000) Requires schools and libraries that participate in certain federal programs to install filtering software. Upheld in court",
+    "3 Things To Consider Before Leaking": """ 
+        - Type of Material
+        - Value to society
+        - Risks to society and individuals"""
+
 
 
 
@@ -116,6 +121,14 @@ DICT = {
 
 
 DAY = {
+    "7": 
+    """
+    Summary: Project sign ups. Leaking info, the releasing of information to an untrusted environment. We covered the ethics of leaking. Whistleblower protection laws. Espionage Act. Chelsey Manning. Edward Snowden.
+
+    Slides: https://liveumb-my.sharepoint.com/:p:/g/personal/amanda_potasznik_umb_edu/Eepg4T9FkoNHkq_wJE80Ok8B6YLXAKbSXb7wJo7Ac-vDZw?e=simmny
+
+    Terms: 3 Things To Consider Before Leaking
+    """,
     "6": 
     """
     Summary: We covered the first amendment and different caveats. Then, we looked at the FCC and how they manage communications. Next, we looked at the Telecommunications Act of 1996 and how ISPs are structured. The ISPs structure is connected to the politics of Net Neutrality. Exceptions to section 230. Then, we looked at Federal Child Protection, Pornography, and Censorship. We also looked at laws surrounding Non-consensual pornography. We also looked at Free Speech in relation to Spam.
