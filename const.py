@@ -121,6 +121,14 @@ DICT = {
 
 
 DAY = {
+    "8": 
+    """
+    Summary: Anonymity. Government involvement when it comes to censorship and anonymity online. 
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-8.pdf
+
+    Terms: None
+    """,
     "7": 
     """
     Summary: Project sign ups. Leaking info, the releasing of information to an untrusted environment. We covered the ethics of leaking. Whistleblower protection laws. Espionage Act. Chelsey Manning. Edward Snowden.
