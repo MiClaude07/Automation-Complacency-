@@ -122,11 +122,29 @@ DICT = {
         - Nature of the copyrighted work
         - Amount and significance of portion used
         - Effect of use on potential market or value of the copyrighted work
-    """
+    """,
+    "Sony V. Universal City Studios": "(1984 ‘The Betamax Case’) Supreme Court decided that the makers of a device with legitimate uses should not be penalized because some people may use it to infringe on copyright. Copying movies for later viewing was fair use",
+    "Drm": "(Digital Rights Management) Collection of techniques that control uses of intellectual property in digital formats. Includes hardware and software schemes using encryption. The procedure of a file has flexibility to specify what a user may do with it.",
+    "Dmca": "(The Digital Millennium Copyright Act of 1998) Anti Circumvention of DRM. Safe harbor protects web sites from lawsuits for copyright infringement by users of sites. Extended Telecommunications Act protections with the condition that providers abide by take down notices",
+    "Riaa V. Napster": "Court ruled napster liable because they had the right and ability to supervise the system, including copyright infringing activities",
+    "Look And Feel": "Refers to interface features. Generally not protected by copyright. Method of operation, not design."
 }
 
 
 DAY = {
+    "10": 
+    """
+    Summary:  Weekly Write Up 2 due Sunday October 8th. In the Lecture, we looked over the Betamax Case (Sony v. Universal) and the concept of legitimate use. Due to issues of controlling copyright over the internet and legitimate use, Digital Rights Managements are a set of strategies for product developers to protect digital intellectual properties. DMCA is a law that protects DRMs. DMCA also protects websites that host copyright infringing content, but they must abide takedown requests. We looked over the RIAA V. Napster Case which analyzed the expectations of web sites to monitor for copyright infringement. Towards the end, we covered the concepts of copyleft and patents. 
+
+    Slides: https://liveumb-my.sharepoint.com/:p:/g/personal/amanda_potasznik_umb_edu/ETbZY0UxoD9Cv7vRb9UYdq0By7xB7nyVe7U66QmmoYugbg?e=91UOE5
+
+    Terms: 
+        Sony V. Universal City Studuis
+        DRM
+        DMCA
+        RIAA V. Napster
+        Look And Feel
+    """,
     "9": 
     """
     Summary: We covered copyright laws and ethics, Intellectual Properties, Fair Use.
