@@ -106,21 +106,40 @@ DICT = {
     "3 Things To Consider Before Leaking": """ 
         - Type of Material
         - Value to society
-        - Risks to society and individuals"""
-
-
-
-
-
-
-
-
-
-
+        - Risks to society and individuals""",
+    "Berne Convention": "(1886) Signatory countries agree to enforce copyright violations across borders. (Adopted in US in 1988)",
+    "Exclusive Rights Given To Copyright Holders": """
+        - To make copies
+        - To produce derivative works
+        - To distribute copies
+        - To perform the work in public
+        - To display work in public
+    """,
+    "Lamacchia Loophole": "Lamacchia didn’t financially benefit from copying/distributing material, so copyright laws at the time didn’t apply",
+    "No Electronic Theft Act": "(1997) made it a felony to willfully infringe copyright by reproducing or distributing one or more copies of copyrighted work with a total value of more than $1,000 within a 6 month period. Closed LaMacchia Loophole",
+    "Fair Use Doctrine": """
+    Purpose and nature of use
+        - Nature of the copyrighted work
+        - Amount and significance of portion used
+        - Effect of use on potential market or value of the copyrighted work
+    """
 }
 
 
 DAY = {
+    "9": 
+    """
+    Summary: We covered copyright laws and ethics, Intellectual Properties, Fair Use.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-9.pdf
+
+    Terms: 
+        Berne Convention
+        Exclusive Rights Given To Copyright Holders
+        LaMacchia Loophole
+        No Electronic Theft Act
+        Fair Use Doctrine
+    """,
     "8": 
     """
     Summary: Anonymity. Government involvement when it comes to censorship and anonymity online. 
