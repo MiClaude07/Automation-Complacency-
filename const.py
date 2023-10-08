@@ -16,7 +16,7 @@ __**Available Commands:**__
 - **$resource <resource>**: provides a link to helpful resources. List of resources can be obtained with `$resource all`
     Example call: $resource final
 """
-
+TIMEOUT = 300
 
 DICT = {
     "Term": "Definition",
