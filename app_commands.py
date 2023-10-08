@@ -36,7 +36,7 @@ def day(content):
 
 
 def last_day(content):
-    last = max(const.DAY.keys())
+    last = list(const.DAY.keys())[0]
     return f"**Day {last}**: {const.DAY[last]}"
 
 
