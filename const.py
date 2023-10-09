@@ -15,19 +15,20 @@ __**Available Commands:**__
 
 - **$resource <resource>**: provides a link to helpful resources. List of resources can be obtained with `$resource all`
     Example call: $resource final
+
+- **$quiz**: Presents a quiz for the caller! Quiz yourself on class terms!
 """
 TIMEOUT = 300
 
 DICT = {
-    "Term": "Definition",
     "Peer To Peer Economy": "Sellers can sell directly to buyers",
     "5 Ways Users Pay For Free": 
     """ 
-    - Advertising 
-    - Donations
-    - Businesses provides some services as a marketing tool
-    - Generosity
-    - Many free sites collect information about our online activities and sell it to advertisers.
+        1.) Advertising 
+        2.) Donations
+        3.) Businesses provides some services as a marketing tool
+        4.) Generosity
+        5.) Many free sites collect information about our online activities and sell it to advertisers.
     """,
     "Turing Test": "An AI test in which if the computer convinces the human subject that the computer is human, the computer is said to `pass`",
     "Negative Feedback Loops": "Damaging self-referential outputs in programs, usually in “black-box” algorithms ",
@@ -58,26 +59,26 @@ DICT = {
     "Red Herring": "Focusing on a non-issue instead of the argument at hand",
     "Slippery Slope": "Negating arguments with unsubstantiated conjecture of consequences. Can be fallacious or valid",
     "Straw Man": "Presenting an altered version of the opponent’s argument so that it seems absurd, then disproving the weak argument",
-    "Key Aspects of Privacy": """
-    - Freedom from intrusion (being left alone)
-    - Control of information about oneself
-    - Freedom from surveillance (from being tracked, followed, watched)""",
+    "Key Aspects Of Privacy": """
+        1.) Freedom from intrusion (being left alone)
+        2.) Control of information about oneself
+        3.) Freedom from surveillance (from being tracked, followed, watched)""",
     "Re-Identification": "(Identifying individuals based on small pieces of information from multiple sources) has become much easier due to the quantity of information and power of data search and analysis tools.",
     "Secondary Use": "The use of data beyond the primary reason for its collection",
     "Invisible Information Gathering": "Collection of personal information about a user without the user’s knowledge",
     "Data Mining": "Searching and analyzing masses of data to find patterns and develop new information or knowledge",
     "Computer Profiling": "Analyzing data to see which people are likely to engage in a certain behavior",
     "Informed Consent": """Permission granted in full knowledge of possible consequences
-    - Opt out: Person must request (usually by checking a box) that an organization not use information
-    - Opt in: The collector of the information may use information only ig person explicitly permits use (usually by checking a box)""",
+        1.) Opt out: Person must request (usually by checking a box) that an organization not use information
+        2.) Opt in: The collector of the information may use information only ig person explicitly permits use (usually by checking a box)""",
     "Fair Information Principles": """
-    - Inform people when you collect information
-    - Collect only the data needed
-    - Offer a way for people to opt out
-    - Keep data only as long as needed
-    - Maintain accuracy of data
-    - Protect security of data
-    - Develop policies for responding to law enforcement requests for data""",
+        1.) Inform people when you collect information
+        2.) Collect only the data needed
+        3.) Offer a way for people to opt out
+        4.) Keep data only as long as needed
+        5.) Maintain accuracy of data
+        6.) Protect security of data
+        7.) Develop policies for responding to law enforcement requests for data""",
     "The 4th Amendment": "Grants citizens general privacy from the government by requiring warrants for searches",
     "The Privacy Act": "Limits disclosure of records held by agencies of the federal government to other agencies, organizations, and individuals",
     "Olmstead V. United States": "(1928) Supreme Court allowed the use of wiretaps on telephone lines without a court order. Interpreted the Fourth Amendment to apply only to physical intrusion and only the search or seizure of material things, not conversations",
@@ -89,39 +90,39 @@ DICT = {
     "Ecpa": "(Electronic Communications Act) (1986) extended the 1968 wiretapping laws to include electronic communications",
     "Calea": "(Communications Assistance For Law Enforcement Act) (1994) Amended ECPA→ requires telecom equipment be designed to ensure that the government can intercept telephone calls (with a court order or other authorization). Has been upheld in several lawsuits",
     "Nsa": """(National Security Agency) 
-	    - 1952: Formed to intercept and decode WW2 messages, only allowed to spy on foreign entities
-	    - Patriot Act (2001) → US now included in NSA surveillance. Main surveillance provisions expired: June 1, 2015
-	    - USA Freedom Act: Extends most of the Patriot Act Until 2018. Ended bulk data collection by the government , now it’s up to ISPs and telecom companies to collect data. Government agencies once again need warrants in order to request access to the records from the telecom companies. International calls and emails not included though can still be collected""",
+	    1.) 1952: Formed to intercept and decode WW2 messages, only allowed to spy on foreign entities
+	    2.) Patriot Act (2001) → US now included in NSA surveillance. Main surveillance provisions expired: June 1, 2015
+	    3.) USA Freedom Act: Extends most of the Patriot Act Until 2018. Ended bulk data collection by the government , now it’s up to ISPs and telecom companies to collect data. Government agencies once again need warrants in order to request access to the records from the telecom companies. International calls and emails not included though can still be collected""",
     "Fisa": "(Foreign Intelligence Surveillance Act) Established oversight court for the NSA",
     "Section 702": "Explicitly allowed, but placed more limits on, government spying. Extends whistleblower protections. Incidental surveillance of US citizens is allowed in the scope of non-US investigations",
     "Rule 41": "Set procedural guidelines for courts. The DOJ wants to update Rule 41 with extensive surveillance for law enforcement",
     "The 1st Amendment":"(Freedom of Speech) Citizens may say almost anything they choose to without being punished by the government. Restriction on the power of government, not individuals or private businesses, to react to inflammatory speech",
     "Fcc": "(Federal Communications Commission) Federal commission that regulates interstate and international communications by radio, television, wire, satellite and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the commission is the United States’ primary authority for communications law, regulation and technological innovation",
     "Telecommunications Act": """(1996) 
-        - Part 1: ISPS are to be classified as either Information Services or Common Carriers
-        - Part 2: Establishes legal immunity for people and companies who host online content, regardless of what their users post""",
+        1.) Part 1: ISPS are to be classified as either Information Services or Common Carriers
+        2.)  Part 2: Establishes legal immunity for people and companies who host online content, regardless of what their users post""",
     "Chilling Effect": "Discouragement and/or suppression of legal behavior (including speech)",
     "Cda": "(Communications Decency Act of 1996): First major internet censorship law. Made it a crime to make available to anyone under 18 any obscene or indecent communication. Found to be unconstitutional",
     "Cipa": "(Children’s Internet Protection Act of 2000) Requires schools and libraries that participate in certain federal programs to install filtering software. Upheld in court",
     "3 Things To Consider Before Leaking": """ 
-        - Type of Material
-        - Value to society
-        - Risks to society and individuals""",
+        1.) Type of Material
+        2.) Value to society
+        3.) Risks to society and individuals""",
     "Berne Convention": "(1886) Signatory countries agree to enforce copyright violations across borders. (Adopted in US in 1988)",
     "Exclusive Rights Given To Copyright Holders": """
-        - To make copies
-        - To produce derivative works
-        - To distribute copies
-        - To perform the work in public
-        - To display work in public
+        1.) To make copies
+        2.) To produce derivative works
+        3.) To distribute copies
+        4.) To perform the work in public
+        5.) To display work in public
     """,
     "Lamacchia Loophole": "Lamacchia didn’t financially benefit from copying/distributing material, so copyright laws at the time didn’t apply",
     "No Electronic Theft Act": "(1997) made it a felony to willfully infringe copyright by reproducing or distributing one or more copies of copyrighted work with a total value of more than $1,000 within a 6 month period. Closed LaMacchia Loophole",
     "Fair Use Doctrine": """
     Purpose and nature of use
-        - Nature of the copyrighted work
-        - Amount and significance of portion used
-        - Effect of use on potential market or value of the copyrighted work
+        1.) Nature of the copyrighted work
+        2.) Amount and significance of portion used
+        3.) Effect of use on potential market or value of the copyrighted work
     """,
     "Sony V. Universal City Studios": "(1984 ‘The Betamax Case’) Supreme Court decided that the makers of a device with legitimate uses should not be penalized because some people may use it to infringe on copyright. Copying movies for later viewing was fair use",
     "Drm": "(Digital Rights Management) Collection of techniques that control uses of intellectual property in digital formats. Includes hardware and software schemes using encryption. The procedure of a file has flexibility to specify what a user may do with it.",
