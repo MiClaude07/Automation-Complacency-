@@ -16,3 +16,5 @@ Available Commands:
 
 - $resource <resource>: provides a link to helpful resources. List of resources can be obtained with `$resources all`
     Example call: $resource final
+
+- $quiz: Presents a quiz for the caller! Quiz yourself on class terms!
