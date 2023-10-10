@@ -63,7 +63,7 @@ async def on_message(message):
         else:
             await message.channel.send(app_commands.define_term(content))
     elif content.startswith('$dictionary'):
-        ret_dict = app_commands.dict_print()
+        ret_dict = app_commands.dict_print(content)
         await message.channel.send(ret_dict)
     elif content.startswith('$resource'):
         await message.channel.send(app_commands.get_resource(content))

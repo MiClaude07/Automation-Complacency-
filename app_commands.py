@@ -18,9 +18,17 @@ def define_term(content):
         return f"Word '{term}' not found."
 
 
-def dict_print():
+def dict_print(content):
     ret_dict = "__**All Terms**__:\n"
-    for term in const.DICT.keys():
+    flag = "nosort"
+    if not content.endswith("dictionary"):
+        expression = ' (.*)'
+        match = re.search(expression, content)
+        flag = match.group(1).lower()
+    keys = list(const.DICT.keys())
+    if flag == "sort":
+        keys.sort()
+    for term in keys:
         ret_dict += f"{term}\n"
     return ret_dict
 
