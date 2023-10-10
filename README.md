@@ -11,7 +11,7 @@ Available Commands:
 
 - $lastday: provides info on the latest day.
 
-- $dictionary: provides definitions for all terms.
+- $dictionary: provides definitions for all terms. Typing sort after $dictionary will sort Terms alphabetically.
     Example call: $dicitionary
 
 - $resource <resource>: provides a link to helpful resources. List of resources can be obtained with `$resources all`
