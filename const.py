@@ -133,6 +133,19 @@ DICT = {
 
 
 DAY = {
+    "11": 
+    """
+    Summary:  https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-11.pdf 
+              WWA Link: https://blogs.umb.edu/amandapotasznik/2023/10/09/changes-based-on-survey-answers/ 
+                
+              Weekly Write Up Alternative. It is a quiz based Alternative to the Weekly Write Up. See more information on the website. 
+
+              In the Lecture, we covered Photographic Copyright. Exceptions to Public Photography. Who “owns” a photo. Deep Fakes. Image and video editing ethics.  
+    Terms:
+
+        No Terms
+
+    """,
     "10": 
     """
     Summary:  Weekly Write Up 2 due Sunday October 8th. In the Lecture, we looked over the Betamax Case (Sony v. Universal) and the concept of legitimate use. Due to issues of controlling copyright over the internet and legitimate use, Digital Rights Managements are a set of strategies for product developers to protect digital intellectual properties. DMCA is a law that protects DRMs. DMCA also protects websites that host copyright infringing content, but they must abide takedown requests. We looked over the RIAA V. Napster Case which analyzed the expectations of web sites to monitor for copyright infringement. Towards the end, we covered the concepts of copyleft and patents. 
