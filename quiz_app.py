@@ -25,7 +25,7 @@ class Quiz():
         self.correctIndex = index
         print(self.choices)
         print(f'{self.correctIndex}')
-        await self.content.channel.send(f'Question 1: What term does this definiton describe: {const.DICT.get(self.correct)}\n 1.) {self.choices[0]}\n 2.) {self.choices[1]}\n 3.) {self.choices[2]}\n 4.) {self.choices[3]}\n')
+        await self.content.channel.send(f'Question 1: What term does this definiton describe: {const.DICT.get(self.correct)["def"]}\n 1.) {self.choices[0]}\n 2.) {self.choices[1]}\n 3.) {self.choices[2]}\n 4.) {self.choices[3]}\n')
         print("Closing start quiz")
         return
 
