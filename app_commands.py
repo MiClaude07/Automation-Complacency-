@@ -13,7 +13,7 @@ def define_term(content):
     term = match.group(1).lower()
     term = term.title()
     if term in const.DICT.keys():
-        return f"**{term}**: {const.DICT[term]}"
+        return f"**{term}**: {const.DICT[term]['def']} (Day {const.DICT[term]['day']})"
     else:
         return f"Word '{term}' not found."
 
@@ -29,7 +29,7 @@ def dict_print(content):
     if flag == "sort":
         keys.sort()
     for term in keys:
-        ret_dict += f"{term}\n"
+        ret_dict += f"{term} (Day {const.DICT[term]['day']})\n"
     return ret_dict
 
 
