@@ -60,7 +60,7 @@ DICT = {
     "Computer Profiling": {'def': 'Analyzing data to see which people are likely to engage in a certain behavior', 'day': '4'},
     "Informed Consent": {'def': 'Permission granted in full knowledge of possible consequences\n        1.) Opt out: Person must request (usually by checking a box) that an organization not use information\n        2.) Opt in: The collector of the information may use information only ig person explicitly permits use (usually by checking a box)', 'day': '4'},
     "Fair Information Principles": {'def': '\n        1.) Inform people when you collect information\n        2.) Collect only the data needed\n        3.) Offer a way for people to opt out\n        4.) Keep data only as long as needed\n        5.) Maintain accuracy of data\n        6.) Protect security of data\n        7.) Develop policies for responding to law enforcement requests for data', 'day': '4'},
-    "The 4th Amendment": {'def': 'Grants citizens general privacy from the government by requiring warrants for searches', 'day': '4'},
+    "The 4Th Amendment": {'def': 'Grants citizens general privacy from the government by requiring warrants for searches', 'day': '4'},
     "The Privacy Act": {'def': 'Limits disclosure of records held by agencies of the federal government to other agencies, organizations, and individuals', 'day': '4'},
     "Olmstead V. United States": {'def': '(1928) Supreme Court allowed the use of wiretaps on telephone lines without a court order. Interpreted the Fourth Amendment to apply only to physical intrusion and only the search or seizure of material things, not conversations', 'day': '4'},
     "Katz V. United States": {'def': '(1967) Supreme Court revised its position and ruled that the Fourth Amendment does apply to conversations. The Court said that the Fourth Amendment protects people, not places. To intrude in a place where a reasonable person has a reasonable expectation of privacy requires a court order', 'day': '4'},
@@ -74,13 +74,13 @@ DICT = {
     "Fisa": {'def': '(Foreign Intelligence Surveillance Act) Established oversight court for the NSA', 'day': '5'},
     "Section 702": {'def': 'Explicitly allowed, but placed more limits on, government spying. Extends whistleblower protections. Incidental surveillance of US citizens is allowed in the scope of non-US investigations', 'day': '5'},
     "Rule 41": {'def': 'Set procedural guidelines for courts. The DOJ wants to update Rule 41 with extensive surveillance for law enforcement', 'day': '5'},
-    "The 1st Amendment": {'def': '(Freedom of Speech) Citizens may say almost anything they choose to without being punished by the government. Restriction on the power of government, not individuals or private businesses, to react to inflammatory speech', 'day': '6'},
+    "The 1St Amendment": {'def': '(Freedom of Speech) Citizens may say almost anything they choose to without being punished by the government. Restriction on the power of government, not individuals or private businesses, to react to inflammatory speech', 'day': '6'},
     "Fcc": {'def': '(Federal Communications Commission) Federal commission that regulates interstate and international communications by radio, television, wire, satellite and cable in all 50 states, the District of Columbia and U.S. territories. An independent U.S. government agency overseen by Congress, the commission is the United States’ primary authority for communications law, regulation and technological innovation', 'day': '6'},
     "Telecommunications Act": {'def': '(1996) \n        1.) Part 1: ISPS are to be classified as either Information Services or Common Carriers\n        2.)  Part 2: Establishes legal immunity for people and companies who host online content, regardless of what their users post', 'day': '6'},
     "Chilling Effect": {'def': 'Discouragement and/or suppression of legal behavior (including speech)', 'day': '6'},
     "Cda": {'def': '(Communications Decency Act of 1996): First major internet censorship law. Made it a crime to make available to anyone under 18 any obscene or indecent communication. Found to be unconstitutional', 'day': '6'},
     "Cipa": {'def': '(Children’s Internet Protection Act of 2000) Requires schools and libraries that participate in certain federal programs to install filtering software. Upheld in court', 'day': '6'},
-    "Can-spam Act": {"def": "(Controlling the Assault of Non-Solicited Pornography and Marketing 2003) Sets rules for spam senders. Criticized for not banning all spam, legitimized commercial spam", "day": "6"},
+    "Can-Spam Act": {"def": "(Controlling the Assault of Non-Solicited Pornography and Marketing 2003) Sets rules for spam senders. Criticized for not banning all spam, legitimized commercial spam", "day": "6"},
     "3 Things To Consider Before Leaking": {'def': ' \n        1.) Type of Material\n        2.) Value to society\n        3.) Risks to society and individuals', 'day': '7'},
     "Berne Convention": {'def': '(1886) Signatory countries agree to enforce copyright violations across borders. (Adopted in US in 1988)', 'day': '9'},
     "Exclusive Rights Given To Copyright Holders": {'def': '\n        1.) To make copies\n        2.) To produce derivative works\n        3.) To distribute copies\n        4.) To perform the work in public\n        5.) To display work in public\n    ', 'day': '9'},
@@ -94,15 +94,35 @@ DICT = {
     "Look And Feel": {'def': 'Refers to interface features. Generally not protected by copyright. Method of operation, not design.', 'day': '10'},
     "Hacktivism": {"def": "Use of hacking to promote a political cause", "day": "12"},
     "Responsible Disclosure": {"def": "Process of reporting security vulnerabilities to someone who can fix them rather than sharing or profiting from them", "day": "12"},
-    "Cfaa": {"def": "(Computer Fraud And Abuse Act) It is illegal to access a computer without authorization", "day": "12"}
+    "Cfaa": {"def": "(Computer Fraud And Abuse Act) It is illegal to access a computer without authorization", "day": "12"},
+    "Phishing": {"def": "Requests for personal and financial information disguised as legitimate business communications in the form of E-mail", "day": "13"},
+    "Smishing": {"def": "Requests for personal and financial information disguised as legitimate business communications in the form of text messaging", "day": "13"},
+    "Vishing": {"def": "Requests for personal and financial information disguised as legitimate business communications in the form of voice phishing", "day": "13"},
+    "Pharming": {"def": "False Web sites fish for personal and financial information by planting false URLs in Domain Name Servers", "day": "13"},
+    "Responsibility To Prevent Access": {"def": "Publishers must prevent material or services from being accessed in countries when they are illegal", "day": "13"},
+    "Authority To Prevent Entry": {"def": "Government of Country A can act within Country A to try to block the entrance of material that is illegal there, but may not apply its laws to the people who create and publish the material, or provide a service, in Country B if it is legal there", "day": "13"}
 }
 
 
 DAY = {
+    "13": 
+    """
+    Summary:  Midterm Exam next Class. Inside of the lecture, we covered identity theft. We also looked at different ways identity theft are attempted and looked over some cases. We also looked over how laws regarding the internet can cross borders (Kim Dotcom, Silk Road, Pirate Bay, etc.)
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-13.pdf
+
+    Terms:
+        Phishing
+        Smishing
+        Vishing
+        Pharming
+        Responsibility To Prevent Access 
+        Authority To Prevent Entry
+    """,
     "12": 
     """
-    Summary: Reminder, Midterm is 1 week from today. Make sure to bring hand-written notes.
-             In the lecture, we covered ethical and unethical hacking. We looked into Stuxnet and other government cyber attacks. We also looked into the CFAA and how unauthorized access to a computer system is regulated. We also discussed the Lori Drew and the Aaron Swartz Case (Aaron’s Law).
+    Summary:Reminder, Midterm is 1 week from today. Make sure to bring hand-written notes.
+            In the lecture, we covered ethical and unethical hacking. We looked into Stuxnet and other government cyber attacks. We also looked into the CFAA and how unauthorized access to a computer system is regulated. We also discussed the Lori Drew and the Aaron Swartz Case (Aaron’s Law).
 
     Slides:  https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-12.pdf 
 
