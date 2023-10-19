@@ -19,7 +19,7 @@ def define_term(content):
 
 
 def dict_print(content):
-    ret_dict = "__**All Terms**__:\n"
+    ret_dict = ["__**All Terms**__:\n"]
     flag = "nosort"
     if not content.endswith("dictionary"):
         expression = ' (.*)'
@@ -28,8 +28,20 @@ def dict_print(content):
     keys = list(const.DICT.keys())
     if flag == "sort":
         keys.sort()
+    count = 0
+    i = 0
+    newline = True
     for term in keys:
-        ret_dict += f"{term} (Day {const.DICT[term]['day']})\n"
+        ret_dict[i] += f"{term} (Day {const.DICT[term]['day']})\t"
+        count += (len(term) + len(const.DICT[term]['day']) + 6)
+        newline = not newline 
+        if newline == True:
+            ret_dict[i] += "\n"
+        if count > 1500:
+            count = 0
+            ret_dict.append("")
+            i += 1
+
     return ret_dict
 
 
