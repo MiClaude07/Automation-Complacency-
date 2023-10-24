@@ -105,6 +105,14 @@ DICT = {
 
 
 DAY = {
+    "14": 
+    """
+    Summary: Midterm
+
+    Slides: 
+
+    Terms:
+    """,
     "13": 
     """
     Summary:  Midterm Exam next Class. Inside of the lecture, we covered identity theft. We also looked at different ways identity theft are attempted and looked over some cases. We also looked over how laws regarding the internet can cross borders (Kim Dotcom, Silk Road, Pirate Bay, etc.)
