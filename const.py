@@ -100,11 +100,23 @@ DICT = {
     "Vishing": {"def": "Requests for personal and financial information disguised as legitimate business communications in the form of voice phishing", "day": "13"},
     "Pharming": {"def": "False Web sites fish for personal and financial information by planting false URLs in Domain Name Servers", "day": "13"},
     "Responsibility To Prevent Access": {"def": "Publishers must prevent material or services from being accessed in countries when they are illegal", "day": "13"},
-    "Authority To Prevent Entry": {"def": "Government of Country A can act within Country A to try to block the entrance of material that is illegal there, but may not apply its laws to the people who create and publish the material, or provide a service, in Country B if it is legal there", "day": "13"}
+    "Authority To Prevent Entry": {"def": "Government of Country A can act within Country A to try to block the entrance of material that is illegal there, but may not apply its laws to the people who create and publish the material, or provide a service, in Country B if it is legal there", "day": "13"},
+    "RAWA": {"def": "(Restoration of America’s Wire Act) bans most forms of online gambling (whether such activity was legalized and regulated by state governments or not", "day": "15"},
+    "Unlawful Internet Gambling Enforcement Act": {"def": "(2006) It is forbidden to accept “any financial instrument” for internet gambling. Includes games of chances. Allows fantasy sports, legal interstate gambling; does not mention state lotteries or horse racing.", "day": "15"}
 }
 
 
 DAY = {
+    "15": 
+    """
+    Summary: First Presentation. During the lecture, we looked into Gambling Legislation and different ways technology has had an effect. 
+
+    Slides: https://liveumb-my.sharepoint.com/:p:/g/personal/amanda_potasznik_umb_edu/EcEGwTKcWhFOtE0DWGUAmx0BrnXhfuUcXEB8H2AxqAoS2Q?e=wGuPHO
+
+    Terms:
+        RAWA
+        Unlawful Internet Gambling Enforcement Act
+    """,
     "14": 
     """
     Summary: Midterm
