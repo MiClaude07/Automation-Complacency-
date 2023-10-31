@@ -102,11 +102,26 @@ DICT = {
     "Responsibility To Prevent Access": {"def": "Publishers must prevent material or services from being accessed in countries when they are illegal", "day": "13"},
     "Authority To Prevent Entry": {"def": "Government of Country A can act within Country A to try to block the entrance of material that is illegal there, but may not apply its laws to the people who create and publish the material, or provide a service, in Country B if it is legal there", "day": "13"},
     "RAWA": {"def": "(Restoration of America’s Wire Act) bans most forms of online gambling (whether such activity was legalized and regulated by state governments or not", "day": "15"},
-    "Unlawful Internet Gambling Enforcement Act": {"def": "(2006) It is forbidden to accept “any financial instrument” for internet gambling. Includes games of chances. Allows fantasy sports, legal interstate gambling; does not mention state lotteries or horse racing.", "day": "15"}
+    "Unlawful Internet Gambling Enforcement Act": {"def": "(2006) It is forbidden to accept “any financial instrument” for internet gambling. Includes games of chances. Allows fantasy sports, legal interstate gambling; does not mention state lotteries or horse racing.", "day": "15"},
+    "Outsourcing": {"def": "Phenomenon in which a company pays another company services instead of performing those tasks itself", "day": "16"},
+    "Offshoring": {"def": "The practice of moving business processes or services to another country, especially overseas, to reduce costs", "day": "16"},
+    "Inshoring": {"def": "When another company employs thousands of people in the U.S (e.g. offshoring for a German company means inshoring for U.S.)", "day": "16"}
 }
 
 
 DAY = {
+    "16": 
+    """
+    Summary: Second presentation. In the lecture, we went over the impact automation has on Employment, Job creation, and Job destruction. We then discussed Off/Inshoring.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-16.pdf
+
+
+    Terms:
+        Outsourcing
+        Offshoring
+        Inshoring
+    """,
     "15": 
     """
     Summary: First Presentation. During the lecture, we looked into Gambling Legislation and different ways technology has had an effect. 
