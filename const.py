@@ -110,6 +110,16 @@ DICT = {
 
 
 DAY = {
+    "17": 
+    """
+    Summary: Exceptions to ECPA. Rights as an employee are not protected over the employer rights, even as a government employee. Social media does not mean private. A person can be fired or judged by companies based on their Social media. Employee privacy is usually put to the side when it comes to businesses.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-17.pdf
+
+
+    Terms:
+        None
+    """,
     "16": 
     """
     Summary: Second presentation. In the lecture, we went over the impact automation has on Employment, Job creation, and Job destruction. We then discussed Off/Inshoring.
