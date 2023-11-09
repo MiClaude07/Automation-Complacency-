@@ -112,10 +112,22 @@ DICT = {
     "Neo Luddites": {"def": "(Neo Luddism) Believe that technology is more harmful to society than it is beneficial.", "day": "19"},
     "Digital Dementia": {"def": "Short term memory dysfunction caused by reliance on digital devices rather than memory.", "day": "19"},
     "Planned Obsolescence": {"def": "Designed a product with an artificially limited useful life, so it will become obsolete, that is, unfashionable or no longer function after a certain period of time.", "day": "19"},
-    "Technological Singularity": {"def": "Point at which artificial intelligence or some combined human-machine intelligence advances so far that we cannot control it.", "day": "19"}
+    "Technological Singularity": {"def": "Point at which artificial intelligence or some combined human-machine intelligence advances so far that we cannot control it.", "day": "19"},
+    "Legacy Systems": {"def": "Outdated computer systems, programming languages or application software that are used instead of available upgraded versions.", "day": "20"},
+    "Nonlinear": {"def": "Changes in output are not proportional to changes in input", "day": "20"}
 }
 
 DAY = {
+    "20": 
+    """
+    Summary: Today we discussed the bugs and glitches, what contributes to them, and their impacts and outcomes.
+
+    Slides:https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-20.pdf
+
+    Terms:
+        Legacy Systems
+        Nonlinear
+    """,
     "19": 
     """
     Summary: We discussed the impact of technology on global development and the divides it can cause. The digital divide isn’t fixed by just giving technology. Furthermore, we went over the possible harm of technology which may outweigh the benefits. We looked into some of the Neo-Luddite arguments.
