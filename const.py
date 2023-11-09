@@ -107,10 +107,28 @@ DICT = {
     "Offshoring": {"def": "The practice of moving business processes or services to another country, especially overseas, to reduce costs", "day": "16"},
     "Inshoring": {"def": "When another company employs thousands of people in the U.S (e.g. offshoring for a German company means inshoring for U.S.)", "day": "16"},
     "Wisdom Of The Crowd": {"def": "The more who contribute, the more accurate the results.", "day": "18"},
-    "Abdication Of Responsibility": {"day": "Giving up control or authority. People may be willing to let computers do their thinking or decision-making", "day": "18"}
+    "Abdication Of Responsibility": {"day": "Giving up control or authority. People may be willing to let computers do their thinking or decision-making", "day": "18"},
+    "The Digital Divide": {"def": "The gap between people who have ready access to technology and the internet and those who do not", "day": "19"},
+    "Neo Luddites": {"def": "(Neo Luddism) Believe that technology is more harmful to society than it is beneficial.", "day": "19"},
+    "Digital Dementia": {"def": "Short term memory dysfunction caused by reliance on digital devices rather than memory.", "day": "19"},
+    "Planned Obsolescence": {"def": "Designed a product with an artificially limited useful life, so it will become obsolete, that is, unfashionable or no longer function after a certain period of time.", "day": "19"},
+    "Technological Singularity": {"def": "Point at which artificial intelligence or some combined human-machine intelligence advances so far that we cannot control it.", "day": "19"}
 }
 
 DAY = {
+    "19": 
+    """
+    Summary: We discussed the impact of technology on global development and the divides it can cause. The digital divide isn’t fixed by just giving technology. Furthermore, we went over the possible harm of technology which may outweigh the benefits. We looked into some of the Neo-Luddite arguments.
+
+    Slides:https://liveumb-my.sharepoint.com/:p:/g/personal/amanda_potasznik_umb_edu/EV19il-tOnVDif6a16lcbLMB9BMgyZwWLtkHMNdNG7r7Sw?e=mDiYr3
+
+    Terms:
+        The Digital Divide
+        Neo Luddites
+        Digital Dementia
+        Planned Obsolescence
+        Technological SIngularity
+    """,
     "18": 
     """
     Summary: We looked into the Wisdom of the Crowd and its reliability, especially when in the context of the internet. Abdication of Responsibility is another aspect where computer systems are made to be fully trusted and given authority. 
