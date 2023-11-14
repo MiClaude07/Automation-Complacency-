@@ -114,10 +114,28 @@ DICT = {
     "Planned Obsolescence": {"def": "Designed a product with an artificially limited useful life, so it will become obsolete, that is, unfashionable or no longer function after a certain period of time.", "day": "19"},
     "Technological Singularity": {"def": "Point at which artificial intelligence or some combined human-machine intelligence advances so far that we cannot control it.", "day": "19"},
     "Legacy Systems": {"def": "Outdated computer systems, programming languages or application software that are used instead of available upgraded versions.", "day": "20"},
-    "Nonlinear": {"def": "Changes in output are not proportional to changes in input", "day": "20"}
+    "Nonlinear": {"def": "Changes in output are not proportional to changes in input", "day": "20"},
+    "Therac 25": {"def": "Massive overdoses of radiation were given; the machine said no dose had been administered at all. Caused severe and painful injuries; plus the death of six patients. Manufacturers, computer programmers, and hospitals/clinics all have some responsibility.", "day": "21"},
+    "High Reliability Organization": {"def": "Preoccupation with failure. Has a loose structure, so no strict or intimidating hierarchy between programmers and others). An HRO is an organization that avoids disasters in a setting where catastrophes would seem common due to high risk and complexity.", "day": "21"},
+    "Iv&v": {"def": "Independent verification and validation.", "day": "21"},
+    "Tcas": {"def": "(Traffic Collision Avoidance System) Automated system that directs pilots in case of imminent collision. Computers in some airplanes prevent certain pilot actions. Near misses and accidents.", "day": "21"}
 }
 
 DAY = {
+    "21": 
+    """
+    Summary: Today we covered more impacts based on technology glitches, however we covered more fatal and dire scenarios. We looked into the Therac 25 and the pitfalls it had. We also looked into the Challenger and Columbia missions and the oversights that had occurred. Finally, we looked into airplane incidents due to oversights. The main one being the Uberlingen Crash which was caused by unfortunate circumstances, human error, and a distrust of the automated TCAS system. 
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2023/04/Day-21.pdf 
+
+    Video: https://liveumb-my.sharepoint.com/:p:/g/personal/amanda_potasznik_umb_edu/EZTfb9z_BeZDnbwX-s921h0Bq98sYdmTfx7BcHoA3umpig?e=rSoAOp 
+
+    Terms:
+        Therac 25
+        High Reliablity Organization
+        IV&V
+        TCAS
+    """,
     "20": 
     """
     Summary: Today we discussed the bugs and glitches, what contributes to them, and their impacts and outcomes.
