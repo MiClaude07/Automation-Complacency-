@@ -117,7 +117,7 @@ DICT = {
     "Nonlinear": {"def": "Changes in output are not proportional to changes in input", "day": "20"},
     "Therac 25": {"def": "Massive overdoses of radiation were given; the machine said no dose had been administered at all. Caused severe and painful injuries; plus the death of six patients. Manufacturers, computer programmers, and hospitals/clinics all have some responsibility.", "day": "21"},
     "High Reliability Organization": {"def": "Preoccupation with failure. Has a loose structure, so no strict or intimidating hierarchy between programmers and others). An HRO is an organization that avoids disasters in a setting where catastrophes would seem common due to high risk and complexity.", "day": "21"},
-    "Iv&v": {"def": "Independent verification and validation.", "day": "21"},
+    "Iv&V": {"def": "Independent verification and validation.", "day": "21"},
     "Tcas": {"def": "(Traffic Collision Avoidance System) Automated system that directs pilots in case of imminent collision. Computers in some airplanes prevent certain pilot actions. Near misses and accidents.", "day": "21"}
 }
 
