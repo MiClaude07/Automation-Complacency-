@@ -118,10 +118,22 @@ DICT = {
     "Therac 25": {"def": "Massive overdoses of radiation were given; the machine said no dose had been administered at all. Caused severe and painful injuries; plus the death of six patients. Manufacturers, computer programmers, and hospitals/clinics all have some responsibility.", "day": "21"},
     "High Reliability Organization": {"def": "Preoccupation with failure. Has a loose structure, so no strict or intimidating hierarchy between programmers and others). An HRO is an organization that avoids disasters in a setting where catastrophes would seem common due to high risk and complexity.", "day": "21"},
     "Iv&V": {"def": "Independent verification and validation.", "day": "21"},
-    "Tcas": {"def": "(Traffic Collision Avoidance System) Automated system that directs pilots in case of imminent collision. Computers in some airplanes prevent certain pilot actions. Near misses and accidents.", "day": "21"}
+    "Tcas": {"def": "(Traffic Collision Avoidance System) Automated system that directs pilots in case of imminent collision. Computers in some airplanes prevent certain pilot actions. Near misses and accidents.", "day": "21"},
+    "Acm": {"day": "Association for Computing Machinery → Provides a general statement for ethical values. Reminds people in the profession that ethical behavior is an essential part of their job. Provides guidance for new or young members. See the term IEEE as well and look into the jointed adaption between the IEEE and ACM which is the Software Engineering Code of Ethics and Professional Practice", "day": "22"},
+    "Ieee": {"day": "Institute for Electrical and Electronics Engineers → Provides a general statement for ethical values. Reminds people in the profession that ethical behavior is an essential part of their job. Provides guidance for new or young members. See the term ACM as well and look into the jointed adaption between the IEEE and ACM which is the Software Engineering Code of Ethics and Professional Practice", "day": "22"}
 }
 
 DAY = {
+    "22": 
+    """
+    Summary: Today is the Withdrawal Deadline. Also, make sure to let Professor Potasznik on Day 23 your decision on whether or not you are doing the Final Paper or not. During the lecture we looked into Professional Ethics and different ethics codes. We also discussed the 9.3.1 methodology that will be used on the Final Paper as well as the steps to take while writing.
+
+    Slides: https://bpb-us-w2.wpmucdn.com/blogs.umb.edu/dist/7/3673/files/2022/11/Day-22.pdf 
+
+    Terms:
+        ACM
+        IEEE
+    """,
     "21": 
     """
     Summary: Today we covered more impacts based on technology glitches, however we covered more fatal and dire scenarios. We looked into the Therac 25 and the pitfalls it had. We also looked into the Challenger and Columbia missions and the oversights that had occurred. Finally, we looked into airplane incidents due to oversights. The main one being the Uberlingen Crash which was caused by unfortunate circumstances, human error, and a distrust of the automated TCAS system. 
